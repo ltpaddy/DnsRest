@@ -1,0 +1,2 @@
+C:\Users\paddy\source\repos\DnsRest.Tests\obj\Debug\DnsRest.Tests.csproj.AssemblyReference.cache
+C:\Users\paddy\source\repos\DnsRest.Tests\obj\Debug\DnsRest.Tests.csproj.CoreCompileInputs.cache

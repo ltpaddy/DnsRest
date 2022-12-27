@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnsRest", "DnsRest.csproj", "{46C4BF43-4568-4D37-ABE6-2D8D501314C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DnsRest.Tests", "..\DnsRest.Tests\DnsRest.Tests.csproj", "{FF40C7FC-2C9B-4A3E-BE33-2EDCA0F48A21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46C4BF43-4568-4D37-ABE6-2D8D501314C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46C4BF43-4568-4D37-ABE6-2D8D501314C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46C4BF43-4568-4D37-ABE6-2D8D501314C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46C4BF43-4568-4D37-ABE6-2D8D501314C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF40C7FC-2C9B-4A3E-BE33-2EDCA0F48A21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF40C7FC-2C9B-4A3E-BE33-2EDCA0F48A21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF40C7FC-2C9B-4A3E-BE33-2EDCA0F48A21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF40C7FC-2C9B-4A3E-BE33-2EDCA0F48A21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0FE0756-0E19-45E9-B096-3C3E6AB7BFB5}
+	EndGlobalSection
+EndGlobal
